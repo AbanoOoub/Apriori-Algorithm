@@ -1,0 +1,9 @@
+C:\Users\hs\source\repos\Mini_Apriori_Algorithm\bin\Debug\Mini_Apriori_Algorithm.exe.config
+C:\Users\hs\source\repos\Mini_Apriori_Algorithm\bin\Debug\Mini_Apriori_Algorithm.exe
+C:\Users\hs\source\repos\Mini_Apriori_Algorithm\bin\Debug\Mini_Apriori_Algorithm.pdb
+C:\Users\hs\source\repos\Mini_Apriori_Algorithm\obj\Debug\Mini_Apriori_Algorithm.Form1.resources
+C:\Users\hs\source\repos\Mini_Apriori_Algorithm\obj\Debug\Mini_Apriori_Algorithm.Properties.Resources.resources
+C:\Users\hs\source\repos\Mini_Apriori_Algorithm\obj\Debug\Mini_Apriori_Algorithm.csproj.GenerateResource.cache
+C:\Users\hs\source\repos\Mini_Apriori_Algorithm\obj\Debug\Mini_Apriori_Algorithm.exe
+C:\Users\hs\source\repos\Mini_Apriori_Algorithm\obj\Debug\Mini_Apriori_Algorithm.pdb
+C:\Users\hs\source\repos\Mini_Apriori_Algorithm\obj\Debug\Mini_Apriori_Algorithm.csprojAssemblyReference.cache
