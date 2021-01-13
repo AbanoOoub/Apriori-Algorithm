@@ -20,3 +20,21 @@ Algorithm Steps:<br/>
 	</ul>	
 </ul>
 
+NOTE: If you have Transaction Data like:</br>
+[TID - Itemset]		   </br>
+  1  - Tomato,Pepsi,Bread  </br>
+  2  - Pepsi,Bread	   </br> 
+  3  - Bread,Eggs	   </br>
+  4  - Milk,Bread	    
+  5  - Milk,Eggs,Tomato    </br>  
+  
+Then you should enter it in left Grid as:</br>
+[TID - Itemset]</br>
+  1  - T,P,B </br>
+  2  - P,B   </br> 
+  3  - B,E   </br>
+  4  - M,B   
+  5  - M,E,T   
+  
+  
+  
